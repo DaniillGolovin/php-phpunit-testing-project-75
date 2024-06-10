@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/code",
+    "description": "Page Loader",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DaniillGolovin",
+            "email": "daniilgolovin656@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
